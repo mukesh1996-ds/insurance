@@ -19,7 +19,7 @@ pandas
 patsy
 Pillow
 pyparsing
-python-dateutil==3.6
+python-dateutil
 pytz
 requests
 scikit-learn
