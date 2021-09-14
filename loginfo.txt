@@ -1,0 +1,64 @@
+INFO, Loading of data started, 2021-09-13 22:07:23,563
+INFO, Data Loaded Successfully, 2021-09-13 22:07:23,618
+INFO, Converting the textual data into numerical data, 2021-09-13 22:07:23,618
+INFO, using Dummy variable to convert the data and process is started, 2021-09-13 22:07:23,618
+INFO, Convertion of data in numerical is done, 2021-09-13 22:07:23,677
+INFO, As my data looks clean, now we can split the dataset into x & y i.e. dependent and independent, 2021-09-13 22:07:23,677
+INFO, data seperation is done, 2021-09-13 22:07:23,717
+INFO, Lets check the Multicollinearity, 2021-09-13 22:07:23,717
+INFO, VIF is done, 2021-09-13 22:07:23,757
+INFO, spliting the data using train_test_split, 2021-09-13 22:07:23,757
+INFO, spliting of data is done, 2021-09-13 22:07:23,765
+INFO, calling the model started, 2021-09-13 22:07:23,765
+INFO, Linear regression completed, 2021-09-13 22:07:23,773
+INFO, starting Ridge regression, 2021-09-13 22:07:23,773
+INFO, Ridge regression completed, 2021-09-13 22:07:23,781
+INFO, Model dumping in pickle format, 2021-09-13 22:07:23,781
+INFO, Model dumping is done successful, 2021-09-13 22:07:23,781
+INFO, Loading of data started, 2021-09-13 22:14:13,644
+INFO, Data Loaded Successfully, 2021-09-13 22:14:13,708
+INFO, Converting the textual data into numerical data, 2021-09-13 22:14:13,708
+INFO, using Dummy variable to convert the data and process is started, 2021-09-13 22:14:13,708
+INFO, Convertion of data in numerical is done, 2021-09-13 22:14:13,740
+INFO, As my data looks clean, now we can split the dataset into x & y i.e. dependent and independent, 2021-09-13 22:14:13,748
+INFO, data seperation is done, 2021-09-13 22:14:13,772
+INFO, Lets check the Multicollinearity, 2021-09-13 22:14:13,772
+INFO, VIF is done, 2021-09-13 22:14:13,788
+INFO, spliting the data using train_test_split, 2021-09-13 22:14:13,788
+INFO, spliting of data is done, 2021-09-13 22:14:13,788
+INFO, calling the model started, 2021-09-13 22:14:13,788
+INFO, Linear regression completed, 2021-09-13 22:14:13,804
+INFO, Loading of data started, 2021-09-14 09:34:04,916
+INFO, Data Loaded Successfully, 2021-09-14 09:34:05,104
+INFO, Converting the textual data into numerical data, 2021-09-14 09:34:05,104
+INFO, using Dummy variable to convert the data and process is started, 2021-09-14 09:34:05,104
+INFO, Convertion of data in numerical is done, 2021-09-14 09:34:05,182
+INFO, As my data looks clean, now we can split the dataset into x & y i.e. dependent and independent, 2021-09-14 09:34:05,182
+INFO, data seperation is done, 2021-09-14 09:34:05,244
+INFO, Lets check the Multicollinearity, 2021-09-14 09:34:05,244
+INFO, VIF is done, 2021-09-14 09:34:05,447
+INFO, spliting the data using train_test_split, 2021-09-14 09:34:05,447
+INFO, spliting of data is done, 2021-09-14 09:34:05,494
+INFO, calling the model started, 2021-09-14 09:34:05,494
+INFO, Linear regression completed, 2021-09-14 09:34:05,760
+INFO, starting Ridge regression, 2021-09-14 09:34:05,760
+INFO, Ridge regression completed, 2021-09-14 09:34:05,885
+INFO, Model dumping in pickle format, 2021-09-14 09:34:05,885
+INFO, Model dumping is done successful, 2021-09-14 09:34:05,979
+INFO, Loading of data started, 2021-09-14 11:11:32,277
+INFO, Data Loaded Successfully, 2021-09-14 11:11:32,661
+INFO, Converting the textual data into numerical data, 2021-09-14 11:11:32,661
+INFO, using Dummy variable to convert the data and process is started, 2021-09-14 11:11:32,661
+INFO, Convertion of data in numerical is done, 2021-09-14 11:11:32,780
+INFO, As my data looks clean, now we can split the dataset into x & y i.e. dependent and independent, 2021-09-14 11:11:32,780
+INFO, data seperation is done, 2021-09-14 11:11:32,850
+INFO, Lets check the Multicollinearity, 2021-09-14 11:11:32,850
+INFO, VIF is done, 2021-09-14 11:11:33,046
+INFO, spliting the data using train_test_split, 2021-09-14 11:11:33,046
+INFO, spliting of data is done, 2021-09-14 11:11:33,102
+INFO, calling the model started, 2021-09-14 11:11:33,102
+INFO, Linear regression completed, 2021-09-14 11:11:33,235
+INFO, starting Ridge regression, 2021-09-14 11:11:33,235
+INFO, Ridge regression completed, 2021-09-14 11:11:33,286
+INFO, Model dumping in pickle format, 2021-09-14 11:11:33,286
+INFO, Model dumping is done successful, 2021-09-14 11:11:33,311

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+  <meta charset="UTF-8">
+  <title>Policy cost prediction</title>
+
+</head>
+
+<body>
+ <div class="login">
+	<h1>Cost prediction</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}" method="POST">
+    	<input type='text' name='age' placeholder='enter the age' required='required' />
+    <select name='sex' id='sex' required='required' class='form-control'>
+        <option> select your gender </option>
+        <option value='0'>Male</option>
+        <option value='1'>female </option>
+    </select>
+
+    <input type='text' name='bmi' placeholder='enter the BMI' required='required' />
+    <select name='children' id='children' required='required' class='form-control'>
+        <option> enter how many children do you have </option>
+        <option value='0'>No children</option>
+        <option value='1'> One children </option>
+        <option value ='2'> Two children </option>
+        <option value= '3'> Three or More than Three</option>
+    </select>
+
+    <select name='smoker' id='smoker' required='required' class='form-control'>
+        <option> Do you smoke or not </option>
+        <option value='0'>No </option>
+        <option value='1'> Yes </option>
+    </select>
+    <select  name = 'region' id = 'region' required = 'required' class = 'form-control'>
+        <option> Specify your region </option>
+        <option value='0'>southwest </option>
+        <option value='1'> northwest </option>
+    </select>
+    <input type="submit" value="prediction">
+    </form>
+
+   <br>
+   <br>
+   {{ prediction }}
+
+ </div>
+</body>
+</html>
